@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0%;
+    border-radius: border-box;
+}
+body{
+    color: white;
+    background-image: url(https://img.hype.games/cdn/c8c95705-4346-4c71-a9f9-b5d5f94698b9The-Dark-Pictures-Anthology-SEASON-ONE.png);
+     /* background-position: center;  */
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+ul{
+    display:flex ;
+  justify-content: space-around;
+}
+button{
+    margin-bottom: 27px;
+    margin-top: 25px;
+    width: 20%;
+    padding: 5px;
+    background-color: gray;
+    border-radius: 20px;
+}

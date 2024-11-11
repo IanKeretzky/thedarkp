@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    /* background-image: url(https://cdn-ext.fanatical.com/production/product/1280x720/67d4256c-bef2-4250-a3fd-4197ea792d70.jpeg); */
+    background-image: url(https://cdn.awsli.com.br/2500x2500/524/524499/produto/184152422/7598ce8d74.jpg);
+    color: white;
+   /* background-repeat: no-repeat;*/
+     background-size: cover; 
+}
